@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-nc-dmv",
+  "version": "0.1.0",
+  "description": "North Carolina DMV: live field-office wait times and driver license office directory",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "nc-dmv"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-nc-dmv"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
