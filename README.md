@@ -3,6 +3,8 @@
 North Carolina DMV MCP — **live** wait times at every NCDMV driver license office and
 license plate agency, plus the office directory the same feed carries. Keyless.
 
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1394+ live data sources.
+
 North Carolina and Oregon are the only two US states whose DMV publishes a
 machine-readable live wait feed. Every other state's is captcha-gated, blocked to cloud
 egress, broken, or only inside a phone app.
@@ -95,7 +97,7 @@ Add to your MCP client (Claude Desktop, Cursor, Windsurf, etc.):
 }
 ```
 
-Or connect to the full Pipeworx gateway for access to all 1392+ data sources:
+Or connect to the full Pipeworx gateway for access to all 1394+ data sources:
 
 ```json
 {
@@ -112,14 +114,14 @@ Or connect to the full Pipeworx gateway for access to all 1392+ data sources:
 Instead of calling tools directly, you can ask questions in plain English:
 
 ```
-ask_pipeworx({ question: "your question about North Carolina DMV data" })
+ask_pipeworx({ question: "your question about Nc Dmv data" })
 ```
 
 The gateway picks the right tool and fills the arguments automatically.
 
 ## More
 
-- [All tools and guides](https://github.com/pipeworx-io/examples)
+- [Docs and guides](https://pipeworx.io/docs)
 - [pipeworx.io](https://pipeworx.io)
 
 ## License
