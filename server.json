@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/nc-dmv",
-  "title": "North Carolina DMV",
-  "description": "North Carolina DMV: live field-office wait times and driver license office directory",
-  "version": "0.1.0",
+  "title": "Nc Dmv",
+  "description": "North Carolina DMV MCP — live wait times at every NCDMV driver license office and",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/nc-dmv",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nc-dmv",
