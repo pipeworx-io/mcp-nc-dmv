@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nc-dmv",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "North Carolina DMV MCP — live wait times at every NCDMV driver license office and license plate agency, plus the office directory those same units carry. Keyless.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nc-dmv",
     "gatewaySlug": "nc-dmv",
-    "sourceHash": "v1-18fcfe89148bcd3a1dec2d5acb2f85f1d6acf2bd64067a27f58b10ea16f08c61",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-3b6826dfaec37da0936785a42251317de09642d8554d92f7e6857993d9f15ac1",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
